@@ -38,7 +38,7 @@ Firstly you need a local fork of the the project, so go ahead and press the “f
 Now you need a copy locally, so find the “Clone with HTTPS” in the right hand column and use that to clone locally using a terminal:
 
 ```
-$ git clone https://github.com/toru-takahashi/treasure-boxes.git
+$ git clone https://github.com/treasure-data/treasure-boxes.git
 ```
 
 ### Create a new branch
@@ -69,7 +69,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the git add command:
 
 ```
-$ git add <YOU ADDED FILE>
+$ git add <FILE YOU ADDED>
 ```
 
 Now commit those changes using the git commit command:
